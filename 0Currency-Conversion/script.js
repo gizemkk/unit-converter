@@ -1,5 +1,4 @@
 
-
 const value=1000;
 
 function convertToUSD (){
